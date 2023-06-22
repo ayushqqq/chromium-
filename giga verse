@@ -1,0 +1,2 @@
+system.out.print("hello world")
+system.out.printnl("hello world")
